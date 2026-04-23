@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap: https://centre-dentaire-fath.webxmed.ma/sitemap.xml
